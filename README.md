@@ -38,7 +38,7 @@ $ (venv) python chat.py
 For Running in JavaScript
 ```
 $ (venv) python app.py
-
+```
 OUTPUT:
 Using Flask:
 ![image](https://github.com/user-attachments/assets/feeeb47d-06c9-46cf-9a45-019d06e954bd)
