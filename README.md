@@ -43,7 +43,7 @@ OUTPUT:
 Using Flask:
 ![image](https://github.com/user-attachments/assets/feeeb47d-06c9-46cf-9a45-019d06e954bd)
 
-```
+
 Using JavaScript
 
 ![image](https://github.com/user-attachments/assets/084920b4-a48b-4295-b637-09c53b0e754e)
