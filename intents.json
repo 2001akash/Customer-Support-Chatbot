@@ -1,0 +1,133 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! Welcome to ARKA Consultancy And Co. How can I assist you today?",
+        "Hi there! How can I help you?",
+        "Hey! What can I do for you today?",
+        "Hello! How can ARKA Consultancy And Co. assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! If you have any more questions, feel free to ask.",
+        "Bye! Thank you for visiting ARKA Consultancy And Co."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank you very much!"],
+      "responses": ["You're welcome!", "Happy to help!", "Any time!", "My pleasure!"]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "What services do you offer?",
+        "What can you help me with?",
+        "Tell me about your services",
+        "What does ARKA Consultancy And Co. do?"
+      ],
+      "responses": [
+        "At ARKA Consultancy And Co., we offer a range of digital marketing services including SEO, content marketing, PPC, social media management, and more.",
+        "We provide keyword research, on-page optimization, technical audits, link building, and other digital marketing services.",
+        "Our services include SEO, content marketing, PPC, social media management, and digital marketing consulting."
+      ]
+    },
+    {
+      "tag": "seo",
+      "patterns": [
+        "Can you help with SEO?",
+        "What SEO services do you offer?",
+        "Tell me about your SEO services",
+        "How can you improve my SEO?"
+      ],
+      "responses": [
+        "Yes, we offer comprehensive SEO services including keyword research, on-page optimization, technical audits, and link building.",
+        "Our SEO services are designed to enhance organic search traffic and improve your website's visibility on search engines.",
+        "We stay updated with the latest SEO trends to ensure your website ranks high in search results."
+      ]
+    },
+    {
+      "tag": "content_marketing",
+      "patterns": [
+        "Do you offer content marketing?",
+        "What is your approach to content marketing?",
+        "How can you help with content marketing?",
+        "Tell me about your content marketing services"
+      ],
+      "responses": [
+        "Yes, we offer content marketing services that include content creation, strategy development, and distribution to engage your audience and drive traffic.",
+        "Our content marketing services are aimed at creating valuable content to attract and retain customers.",
+        "We develop and implement content strategies that align with your business goals."
+      ]
+    },
+    {
+      "tag": "ppc",
+      "patterns": [
+        "Can you manage PPC campaigns?",
+        "Do you offer PPC services?",
+        "Tell me about your PPC services",
+        "How can you help with PPC?"
+      ],
+      "responses": [
+        "Yes, we manage PPC campaigns to help you reach your target audience and achieve your advertising goals.",
+        "Our PPC services include campaign setup, management, and optimization to maximize your ROI.",
+        "We create and manage effective PPC campaigns on platforms like Google Ads and social media."
+      ]
+    },
+    {
+      "tag": "social_media_management",
+      "patterns": [
+        "Do you offer social media management?",
+        "How can you help with social media?",
+        "Tell me about your social media services",
+        "Can you manage my social media accounts?"
+      ],
+      "responses": [
+        "Yes, we offer social media management services to enhance your online presence and engage with your audience.",
+        "Our social media services include content creation, scheduling, and performance analysis on platforms like Facebook, Twitter, Instagram, and LinkedIn.",
+        "We help you build a strong social media presence and connect with your customers effectively."
+      ]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [
+        "What are your prices?",
+        "How much do your services cost?",
+        "Tell me about your pricing",
+        "What are your rates?"
+      ],
+      "responses": [
+        "Our pricing varies depending on the services you need. Please contact us for a detailed quote.",
+        "We offer customized pricing based on your specific requirements. Let's discuss your project for an accurate estimate.",
+        "Our rates are competitive and tailored to meet your business needs. Get in touch for a detailed pricing plan."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I contact you?",
+        "What is your contact information?",
+        "How do I get in touch with ARKA Consultancy And Co.?",
+        "Can I have your contact details?"
+      ],
+      "responses": [
+        "You can contact us via email at info@arkaconsultancy.com or call us at (123) 456-7890.",
+        "Feel free to reach out to us at info@arkaconsultancy.com or call (123) 456-7890 for any inquiries.",
+        "Our contact details are available on our website. You can also email us at info@arkaconsultancy.com or call (123) 456-7890."
+      ]
+    }
+  ]
+}
